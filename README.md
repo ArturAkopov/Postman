@@ -1,2 +1,1 @@
-# Postman
-## Примерs запросов в Postman
+# Примерs запросов в Postman
